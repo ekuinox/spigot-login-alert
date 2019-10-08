@@ -12,5 +12,7 @@ resolvers += Resolver.bintrayIvyRepo("com.eed3si9n", "sbt-plugins")
 libraryDependencies ++= Seq(
   "org.spigotmc" % "spigot-api" % "1.14.4-R0.1-SNAPSHOT",
   "org.apache.commons" % "commons-lang3" % "3.1",
-  "commons-io" % "commons-io" % "2.4"
+  "commons-io" % "commons-io" % "2.4",
+  "org.scalaj" % "scalaj-http_2.13" % "2.4.2",
+  "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
 )

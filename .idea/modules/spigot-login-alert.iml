@@ -24,13 +24,15 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: org.apache.commons:commons-lang3:3.1:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.1:jar" level="project" />
-    <orderEntry type="library" name="sbt: commons-io:commons-io:2.4:jar" level="project" />
-    <orderEntry type="library" name="sbt: net.md-5:bungeecord-chat:1.13-SNAPSHOT:jar" level="project" />
-    <orderEntry type="library" name="sbt: commons-lang:commons-lang:2.6:jar" level="project" />
-    <orderEntry type="library" name="sbt: com.google.guava:guava:21.0:jar" level="project" />
-    <orderEntry type="library" name="sbt: com.google.code.gson:gson:2.8.0:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.spigotmc:spigot-api:1.14.4-R0.1-SNAPSHOT:jar" level="project" />
     <orderEntry type="library" name="sbt: org.yaml:snakeyaml:1.23:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.spigotmc:spigot-api:1.14.4-R0.1-SNAPSHOT:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.gson:gson:2.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:guava:21.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-lang:commons-lang:2.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.md-5:bungeecord-chat:1.13-SNAPSHOT:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-io:commons-io:2.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalaj:scalaj-http_2.13:2.4.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2:jar" level="project" />
   </component>
 </module>
