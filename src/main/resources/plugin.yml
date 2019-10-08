@@ -1,0 +1,4 @@
+name: SpigotLoginAlert
+version: 1.0.3
+main: dev.ekuinox.spigot_login_alert
+api-version: 1.14
