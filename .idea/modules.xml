@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot-login-alert.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot-login-alert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot-login-alert-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot-login-alert-build.iml" />
+    </modules>
+  </component>
+</project>

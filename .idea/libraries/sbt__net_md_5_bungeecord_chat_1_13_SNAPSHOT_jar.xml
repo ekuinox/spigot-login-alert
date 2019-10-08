@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: net.md-5:bungeecord-chat:1.13-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/oss.sonatype.org/content/repositories/snapshots/net/md-5/bungeecord-chat/1.13-SNAPSHOT/bungeecord-chat-1.13-20190406.085523-69.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/oss.sonatype.org/content/repositories/snapshots/net/md-5/bungeecord-chat/1.13-SNAPSHOT/bungeecord-chat-1.13-20190406.085523-69-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/oss.sonatype.org/content/repositories/snapshots/net/md-5/bungeecord-chat/1.13-SNAPSHOT/bungeecord-chat-1.13-20190406.085523-69-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
